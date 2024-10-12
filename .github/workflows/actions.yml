@@ -17,42 +17,18 @@ jobs:
         run: |
           branch_name="${GITHUB_REF##*/}"  # get branch name
           student_id="${branch_name%%-*} #save student ID
-          echo "Student ID: $student_id"
+          echo "User with student ID: $student_id is pushing changes"
           
-          txt_files=$(ls *.txt 2>/dev/null) # check if .txt files in push
+          # Check for .txt files in push
+          txt_files=$(ls *.txt 2>/dev/null)
 
           if [ -z "$txt_files" ]; then
             echo "No text files found to process." 
             exit 0
           fi
-          
+
+          # Output the names of the modified or added text files
+          echo "The following text files are being modified or added:"
           for file in $txt_files; do
-            file_student_id="${file%%_*}"  # get file student id
-            
-            if [ "$file_student_id" != "$student_id" ]; then
-              echo "Filename $file does not match branch student ID $student_id."
-              # Create new file with correct ID
-              new_file="${student_id}_${file#*_}"
-              echo "Creating new file: $new_file"
-              echo "Processed content of $file" > "$new_file"  # write content to new file
-            else
-              echo "Processing $file"
-              echo "Processed content of $file" > "$file"  # Overwrite the original file
-            fi
+            echo "$file"
           done
-
-          # Stage the modified files for commit
-          git add *.txt
-          
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "your_email@example.com"
-          git config --local user.name "Your Name"
-
-          # Commit if there are changes
-          if ! git diff --cached --quiet; then
-            git commit -m "Processed text files"
-            git push origin "${{ github.ref }}"
-          else
-            echo "No changes to commit"
-          fi
