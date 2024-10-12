@@ -15,9 +15,8 @@ jobs:
       - name: Ensure text file contains correct user ID
         id: process_files
         run: |
-          branch_name="${GITHUB_REF##*/}"  # get branch name
-          student_id="${branch_name%%-*}" #save student ID
-          echo "User with student ID: $student_id is pushing changes"
+          username="${{ github.actor }}" 
+          echo "User $username is pushing changes"
           
           # Check for .txt files in push
           txt_files=$(ls *.txt 2>/dev/null)
