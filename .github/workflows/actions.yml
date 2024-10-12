@@ -1,5 +1,5 @@
 name: Group43Assignment
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.actor }} pushed something
 on:
   push:
     branches:
@@ -16,7 +16,7 @@ jobs:
         id: process_files
         run: |
           branch_name="${GITHUB_REF##*/}"  # get branch name
-          student_id="${branch_name%%-*} #save student ID
+          student_id="${branch_name%%-*}" #save student ID
           echo "User with student ID: $student_id is pushing changes"
           
           # Check for .txt files in push
