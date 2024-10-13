@@ -1,5 +1,18 @@
 about the devops course
 
+The fall 2024 COMP3104 devOps course is offered to
+programming and analysis - T177,
+computer systems technology T147, 
+computer programming T184
+
+the essential resoruces required for tis course are:
+-github
+-travis
+-docker
+-kubernetes
+-sonarqube
+
+
 COMP3104 offered at GBC focuses on teaching students about:
 - Monitoring and logging to ensure performance efficiency
 - managing computing infrastructure
