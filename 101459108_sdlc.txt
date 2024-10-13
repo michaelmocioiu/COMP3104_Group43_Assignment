@@ -1,0 +1,10 @@
+The Importance of Developer Operations (DevOps) in the Software Development Life Cycle (SDLC)
+
+The SDLC has many important facets, this document will cover how DevOps fit into it. 
+
+1. Continuous Integration (CI)
+2. Improves Product Quality
+3. Increased Efficiency
+4. Scalability
+5. Less Errors
+6. Improved Collaboration
