@@ -1,0 +1,1 @@
+COMP 3104 DevOps introduces students to development operations, covering CI/CD, automation, and collaboration between development and operations teams.
