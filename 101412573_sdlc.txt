@@ -1,1 +1,2 @@
 DevOps is critical in improving SDLC.
+DevOps integrates development and operations to improve collaboration and deployment speed.
