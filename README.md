@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Michael Mocioiu (101459108) - [GitHub](https://github.com/michaelmocioiu)
 - **Member 2:** Auden Belen (101367419) - [GitHub](https://github.com/AudenB11)
-- **Member 3:**
+- **Member 3:** Leonid Serebryannikov (101468805) - [GitHub](https://github.com/wardennkoil)
 - **Member 4:**
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
