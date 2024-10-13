@@ -1,0 +1,15 @@
+about the importance of learning DevOps in the software development cycle
+
+Learning devops will help us understand a couple of different things 
+for which we could implement to and add on to our skills to better prepare 
+us for the real-world environment and its competetive nature
+
+- we will be able better respond to market demands to stay competetive by
+  integrating DevOps practices
+- we will be able to better communicate and efficiently work with development
+  and operative teams by integrating DevOps practices, allowing us to quickly 
+  identify and address concerns and issues
+- we will learn to integrate automated testing and monitoring into our project's
+  development processes which leads to more reliable software with fewer bugs and
+  issues
+  
