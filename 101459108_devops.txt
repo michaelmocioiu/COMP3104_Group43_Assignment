@@ -12,3 +12,8 @@ Its key objectives are:
 Delivery Method: 
 Labs and Lectures are online, accessible through D2L and hosted on Zoom. 
 Assignments are posted and submitted online through D2L
+
+
+Exam Information:
+Midterm exams: In person during Week 7 (20% of final grade)
+Final Exams : In person during Week 15 (30% of final grade)
