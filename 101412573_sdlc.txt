@@ -1,0 +1,3 @@
+DevOps Practices is critical in improving SDLC.
+DevOps Practices integrates development and operations to improve collaboration and deployment speed.
+DevOps Practices helps to reduce errors and streamline the deployment process.
