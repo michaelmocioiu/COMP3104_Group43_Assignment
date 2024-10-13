@@ -1,0 +1,32 @@
+name: Group43Assignment
+run-name: ${{ github.actor }} pushed something
+on:
+  push:
+    branches:
+      - main
+      - '**'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Ensure text file contains correct user ID
+        id: process_files
+        run: |
+          username="${{ github.actor }}" 
+          echo "User $username is pushing changes"
+          
+          txt_files=$(find . -maxdepth 1 -name "*.txt")
+
+          if [ -z "$txt_files" ]; then
+            echo "No text files found to process."
+            exit 0
+          fi
+
+          # Output the names of the modified or added text files
+          echo "The following text files are being modified or added:"
+          for file in $txt_files; do
+            echo "$file"
+          done
