@@ -1,3 +1,3 @@
-COMP 3104 introduces students to DevOps principles.
+COMP 3104 DevOps introduces students to DevOps principles.
 The course covers CI/CD, automation, and containerization.
 Students learn to implement continuous integration and continuous delivery (CI/CD) practices.
