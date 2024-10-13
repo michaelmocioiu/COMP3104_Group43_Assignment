@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Michael Mocioiu (101459108) - [GitHub](https://github.com/michaelmocioiu)
-- **Member 2:** 
+- **Member 2:** Auden Belen (101367419) - [GitHub](https://github.com/AudenB11)
 - **Member 3:**
 - **Member 4:**
 ## Project Description
