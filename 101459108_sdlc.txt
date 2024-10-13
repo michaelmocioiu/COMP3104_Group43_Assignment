@@ -3,14 +3,16 @@ The Importance of Developer Operations (DevOps) in the Software Development Life
 The SDLC has many important facets, this document will cover how DevOps fit into it. 
 
 1. Continuous Integration (CI)
-Automates the process of merging code changes from multiple users, ensuring codebase integrity
+  - Automates the process of merging code changes from multiple users, ensuring codebase integrity
 2. Improves Product Quality
-Rigorous improved + automated monitoring processes ensure a more stable product, reducing chances of bugs.
+  - Rigorous improved + automated monitoring processes ensure a more stable product, reducing chances of bugs.
 3. Increased Efficiency
-Less labour required to maintain codebase -> better usage of developer time and skills.
+  - Less labour required to maintain codebase -> better usage of developer time and skills.
 4. Scalability
-Allows development teams to adapt better to changing business and market conditions/needs.
+  - Allows development teams to adapt better to changing business and market conditions/needs.
 5. Less Errors
-Early bug detections which prevent codebase damage ensures that there will be less errors raised.
+  - Early bug detections which prevent codebase damage ensures that there will be less errors raised.
 6. Improved Collaboration
-Improves collaboration between teams that might otherwise might not have as much access to one another.
+  - Improves collaboration between teams that might otherwise might not have as much access to one another.
+
+In conclusion, it is clear how important DevOps are to the SDLC, and without them, businesses would face more hardships and incur more losses.
