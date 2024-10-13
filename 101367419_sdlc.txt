@@ -13,3 +13,6 @@ us for the real-world environment and its competetive nature
   development processes which leads to more reliable software with fewer bugs and
   issues
   
+It is a definite must for all software engineers to understand and implement DevOps
+practices and principles to improve their software perfomance and overall value as a
+team member
