@@ -1,11 +1,11 @@
-about George Brown College
+about George Brown College:
 
 GBC provides wide range of different fields of education to different kinds of people
 where they strive to offer the best possible experiences for its students in order to
-better prepare them for the real world
+better prepare them for the real world.
 
 GBC primarily operates in Toronto, Ontario with 3 campuses specializing in different
-fields of study
+fields of study:
 
 (ST James Campus)
 - Business Programs (Accounting, finance, marketing)
@@ -26,4 +26,4 @@ fields of study
 With GBC's wide variety of different options of study and its connections &
 partnerships to over thousands of industry partners, it is a good post-secondary choice
 for those residing in the area of toronto for which they will be ensured hands on education
-and access to real-world experiences & job placements
+and access to real-world experiences & job placements.
