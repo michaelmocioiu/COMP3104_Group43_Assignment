@@ -1,10 +1,14 @@
 COMP3104 - DevOps Information
-This course is a third year, first semester course at George Brown College. 
+This course is a third year, first semester course at George Brown College.
 
 Its key objectives are:
- - To teach students about various concepts and methods in the software development cycle
- - Train students in using GitHub
- - Train students in using CI tools like TravisCI or GitHub Actions
- - Train students in deployment strategies
- - Analyze the marker as a DevOps engineer
- - Teach students about version control
+  - To teach students about various concepts and methods in the software development cycle
+  - Train students in using GitHub
+  - Train students in using CI tools like TravisCI or GitHub Actions
+  - Train students in deployment strategies
+  - Analyze the marker as a DevOps engineer
+  - Teach students about version control
+
+Delivery Method: 
+Labs and Lectures are online, accessible through D2L and hosted on Zoom. 
+Assignments are posted and submitted online through D2L
