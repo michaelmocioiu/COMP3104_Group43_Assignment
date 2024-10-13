@@ -8,7 +8,7 @@ COMP3104 offered at GBC focuses on teaching students about:
 These are the description when it comes to student evaluation for this course:
 - quizzes 8 X 1% (total weight: 8%)
 - lab exercises 8 x 2% (total weight: 16%)
-- individual assignments 10% (total weight 10%)
-- group assignments 16% (total weight 16%)
+- individual assignments (total weight 10%)
+- group assignments (total weight 16%)
 - midterm (total weight 20%)
 - final exam (total weight 30%)
