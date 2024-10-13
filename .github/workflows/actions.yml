@@ -18,11 +18,10 @@ jobs:
           username="${{ github.actor }}" 
           echo "User $username is pushing changes"
           
-          # Check for .txt files in push
-          txt_files=$(ls *.txt 2>/dev/null)
+          txt_files=$(find . -maxdepth 1 -name "*.txt")
 
           if [ -z "$txt_files" ]; then
-            echo "No text files found to process." 
+            echo "No text files found to process."
             exit 0
           fi
 
