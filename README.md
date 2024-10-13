@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Michael Mocioiu (101459108) - [GitHub](https://github.com/michaelmocioiu)
-- **Member 2:** 
+- **Member 2:** Leonid Serebryannikov (101468805) - [GitHub](https://github.com/wardennkoil)
 - **Member 3:**
 - **Member 4:**
 ## Project Description
